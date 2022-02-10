@@ -1,0 +1,16 @@
+.navbar-brand {
+    text-align: center;
+}
+
+body.container {
+    background-color: cadetblue;
+}
+
+.navbar .navbar-nav {
+    margin: 0px auto;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+    text-align: end;
+}
