@@ -4,10 +4,11 @@
 
 
 body {
-    background-color: cadetblue;
+    background-color: dark;
 }
 .container {
     height: 1000px;
+    border-color: black;
 }
 
 .navbar .navbar-nav {
@@ -24,16 +25,24 @@ body {
 }
 
 .col-auto img {
-    height: 200px;
-    padding-right: 10px;
+    /*height: 200px;*/
+    width: 550px;
+    /*padding-right: 10px;*/
 }
 
 .card .card-text {
-    padding-top: 30px;
+    /*padding-top: 30px;*/
     max-height: 200px;
+    overflow: hidden;
+    background-color: cadetblue;
 }
 .card {
     height: 200px;
-    display: inline-block;
-    text-transform: ;
+    /*margin-top: 40px;*/
+    margin-top: 50px;
+    margin-right: 10px;
 }
+
+/*.col {*/
+/*    background-color: black;*/
+/*}*/
