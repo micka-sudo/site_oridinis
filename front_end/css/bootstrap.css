@@ -27,3 +27,21 @@ body {
 img {
     height: 200px;
 }
+.contenue {
+    width: 1500px;
+    margin: 0 auto;
+
+}
+
+.row-details {
+    margin-right: auto;
+
+    float: left;
+    list-style-type: none;
+    margin-top: 35px;
+}
+.row {
+    margin: auto;
+
+    height: 150px;
+}
