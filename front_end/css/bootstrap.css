@@ -23,3 +23,7 @@ body {
     margin: 0px auto;
     justify-content: end;
 }
+
+img {
+    height: 200px;
+}
